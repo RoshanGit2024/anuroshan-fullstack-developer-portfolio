@@ -16,7 +16,7 @@ export default function Hero() {
               Software Developer — MERN Stack & Mobile Developer
             </p>
             <p className={styles.description}>
-              With 3.5 years of experience designing, developing, and maintaining scalable web and mobile
+              With 4 years of experience designing, developing, and maintaining scalable web and mobile
               applications using React.js, React Native, Next.js, Node.js, and Express.js. Currently engineering
               healthcare & wellness platforms at <strong>LYFnGO Technologies</strong>.
             </p>
