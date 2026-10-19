@@ -68,7 +68,7 @@ const experiences: ExperienceItem[] = [
     company: 'Ijona Technologies',
     location: 'Bengaluru, Karnataka',
     duration: 'Apr 2024 – Aug 2024',
-    type: 'Contract',
+    type: 'Full-time',
     description: [
       'Developed reusable React.js components and frontend libraries to improve development efficiency and maintainability.',
       'Built responsive and user-friendly web interfaces compatible across modern browsers and devices.',

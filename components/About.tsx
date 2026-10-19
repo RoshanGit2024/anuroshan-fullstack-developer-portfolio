@@ -9,7 +9,7 @@ export default function About() {
           <div className={styles.textContent}>
             <h2 className="section-title">About Me</h2>
             <p className={styles.intro}>
-              Software Developer with <strong>3.5 years of experience</strong> in designing, developing, and
+              Software Developer with <strong>4 years of experience</strong> in designing, developing, and
               maintaining scalable web and mobile applications using the MERN Stack, React Native, and modern
               cloud technologies.
             </p>
@@ -65,7 +65,7 @@ export default function About() {
 
             <div className={styles.bio}>
               <p>
-                Over the course of 3.5 years, I have engineered mission-critical web and mobile solutions for
+                Over the course of 4 years, I have engineered mission-critical web and mobile solutions for
                 enterprises including <strong>LYFnGO Technologies</strong>, <strong>Inkqubee</strong>,{' '}
                 <strong>Ijona Technologies</strong>, and <strong>Locuz</strong>.
               </p>
